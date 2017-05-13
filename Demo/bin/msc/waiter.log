@@ -1,0 +1,1278 @@
+============================================================
+Time  2016/08/10 15:36:18 188 
+============================================================
+[2016/08/10 15:36:18 230] waiter     189  waiter loaded!  
+[2016/08/10 15:36:18 230] network    427  update_iplist  
+[2016/08/10 15:36:18 230] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/10 15:36:18 230] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/10 15:36:18 230] waiter     275  last gc at  1470814578  
+[2016/08/10 15:36:18 230] network    208  gethttpresp2  117.121.21.149  1028  
+[2016/08/10 15:36:18 253] waiter     275  last gc at  1470814578  
+[2016/08/10 15:36:18 253] network    174  dns resp  0  
+[2016/08/10 15:36:18 253] network    317  gethttpresp dns ok  117.121.21.149  
+[2016/08/10 15:36:18 253] network    208  gethttpresp2  117.121.21.149  80  
+[2016/08/10 15:36:18 269] network    427  update_iplist  
+[2016/08/10 15:36:18 269] waiter     275  last gc at  1470814578  
+[2016/08/10 15:36:18 273] network    233  connected  
+[2016/08/10 15:36:18 276] network    236  send ok  93  
+[2016/08/10 15:36:18 279] network    427  update_iplist  
+[2016/08/10 15:36:18 279] waiter     275  last gc at  1470814578  
+[2016/08/10 15:36:18 286] network    233  connected  
+[2016/08/10 15:36:18 289] network    236  send ok  94  
+[2016/08/10 15:36:18 301] network    239  readable  
+[2016/08/10 15:36:18 302] network    927  port1028 http resp  nil  0  udata(14e61e8) 
+[2016/08/10 15:36:18 302] network    934  set preferred_port: 1028  
+[2016/08/10 15:36:18 316] network    239  readable  
+[2016/08/10 15:36:18 319] network    549  update iplist http resp  nil  0  udata(14e6788) 
+[2016/08/10 15:36:18 319] network    573  update iplist ok  
+[2016/08/10 15:36:18 321] network    595  not encrypted!  
+[2016/08/10 15:36:18 322] network    497  dev.voicecloud.cn  
+[2016/08/10 15:36:18 322] network    508  bj  
+[2016/08/10 15:36:18 322] network    510  bj  
+[2016/08/10 15:36:18 322] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/10 15:36:18 322] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/10 15:36:18 322] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/10 15:36:18 323] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/10 15:36:18 323] network    510  gz  
+[2016/08/10 15:36:18 323] network    510  hf  
+============================================================
+Time  2016/08/13 19:37:15 967 
+============================================================
+[2016/08/13 19:37:15 967] waiter     189  waiter loaded!  
+[2016/08/13 19:37:15 967] network    427  update_iplist  
+[2016/08/13 19:37:15 969] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/13 19:37:15 969] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/13 19:37:15 969] waiter     275  last gc at  1471088235  
+[2016/08/13 19:37:15 970] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/13 19:37:15 986] waiter     275  last gc at  1471088235  
+[2016/08/13 19:37:15 986] network    174  dns resp  0  
+[2016/08/13 19:37:15 987] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/13 19:37:15 987] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/13 19:37:16 006] network    233  connected  
+[2016/08/13 19:37:16 007] network    236  send ok  93  
+[2016/08/13 19:37:16 030] network    427  update_iplist  
+[2016/08/13 19:37:16 030] waiter     275  last gc at  1471088235  
+[2016/08/13 19:37:16 033] network    427  update_iplist  
+[2016/08/13 19:37:16 033] waiter     275  last gc at  1471088235  
+[2016/08/13 19:37:16 036] network    233  connected  
+[2016/08/13 19:37:16 039] network    239  readable  
+[2016/08/13 19:37:16 039] network    927  port1028 http resp  nil  0  udata(11b4d78) 
+[2016/08/13 19:37:16 039] network    934  set preferred_port: 1028  
+[2016/08/13 19:37:16 039] network    236  send ok  94  
+[2016/08/13 19:37:16 073] network    239  readable  
+[2016/08/13 19:37:16 075] network    549  update iplist http resp  nil  0  udata(11b4e38) 
+[2016/08/13 19:37:16 075] network    573  update iplist ok  
+[2016/08/13 19:37:16 075] network    595  not encrypted!  
+[2016/08/13 19:37:16 076] network    497  dev.voicecloud.cn  
+[2016/08/13 19:37:16 076] network    508  bj  
+[2016/08/13 19:37:16 076] network    510  bj  
+[2016/08/13 19:37:16 076] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/13 19:37:16 076] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/13 19:37:16 078] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/13 19:37:16 078] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/13 19:37:16 079] network    510  gz  
+[2016/08/13 19:37:16 079] network    510  hf  
+============================================================
+Time  2016/08/13 19:43:19 967 
+============================================================
+[2016/08/13 19:43:19 967] waiter     189  waiter loaded!  
+[2016/08/13 19:43:19 967] network    427  update_iplist  
+[2016/08/13 19:43:19 967] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/13 19:43:19 969] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/13 19:43:19 969] waiter     275  last gc at  1471088599  
+[2016/08/13 19:43:19 969] network    427  update_iplist  
+[2016/08/13 19:43:19 969] waiter     275  last gc at  1471088599  
+[2016/08/13 19:43:19 969] network    208  gethttpresp2  117.121.21.149  1028  
+[2016/08/13 19:43:19 984] waiter     275  last gc at  1471088599  
+[2016/08/13 19:43:19 986] network    174  dns resp  0  
+[2016/08/13 19:43:19 986] network    317  gethttpresp dns ok  117.121.21.149  
+[2016/08/13 19:43:19 986] network    208  gethttpresp2  117.121.21.149  80  
+[2016/08/13 19:43:20 007] network    233  connected  
+[2016/08/13 19:43:20 007] network    236  send ok  93  
+[2016/08/13 19:43:20 028] network    427  update_iplist  
+[2016/08/13 19:43:20 028] waiter     275  last gc at  1471088599  
+[2016/08/13 19:43:20 036] network    233  connected  
+[2016/08/13 19:43:20 036] network    239  readable  
+[2016/08/13 19:43:20 036] network    927  port1028 http resp  nil  0  udata(13337b8) 
+[2016/08/13 19:43:20 036] network    934  set preferred_port: 1028  
+[2016/08/13 19:43:20 036] network    236  send ok  94  
+[2016/08/13 19:43:20 062] network    239  readable  
+[2016/08/13 19:43:20 062] network    549  update iplist http resp  nil  0  udata(13338d8) 
+[2016/08/13 19:43:20 062] network    573  update iplist ok  
+[2016/08/13 19:43:20 062] network    595  not encrypted!  
+[2016/08/13 19:43:20 063] network    497  dev.voicecloud.cn  
+[2016/08/13 19:43:20 063] network    508  bj  
+[2016/08/13 19:43:20 063] network    510  bj  
+[2016/08/13 19:43:20 063] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/13 19:43:20 063] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/13 19:43:20 063] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/13 19:43:20 065] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/13 19:43:20 065] network    510  gz  
+[2016/08/13 19:43:20 065] network    510  hf  
+============================================================
+Time  2016/08/13 19:46:58 766 
+============================================================
+[2016/08/13 19:46:58 766] waiter     189  waiter loaded!  
+[2016/08/13 19:46:58 766] network    427  update_iplist  
+[2016/08/13 19:46:58 766] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/13 19:46:58 766] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/13 19:46:58 766] waiter     275  last gc at  1471088818  
+[2016/08/13 19:46:58 766] network    427  update_iplist  
+[2016/08/13 19:46:58 766] waiter     275  last gc at  1471088818  
+[2016/08/13 19:46:58 766] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/13 19:46:58 799] waiter     275  last gc at  1471088818  
+[2016/08/13 19:46:58 799] network    174  dns resp  0  
+[2016/08/13 19:46:58 799] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/13 19:46:58 799] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/13 19:46:58 829] network    233  connected  
+[2016/08/13 19:46:58 829] network    236  send ok  93  
+[2016/08/13 19:46:58 845] network    233  connected  
+[2016/08/13 19:46:58 845] network    236  send ok  94  
+[2016/08/13 19:46:58 845] network    427  update_iplist  
+[2016/08/13 19:46:58 845] waiter     275  last gc at  1471088818  
+[2016/08/13 19:46:58 861] network    239  readable  
+[2016/08/13 19:46:58 861] network    927  port1028 http resp  nil  0  udata(c088d8) 
+[2016/08/13 19:46:58 861] network    934  set preferred_port: 1028  
+[2016/08/13 19:46:58 877] network    239  readable  
+[2016/08/13 19:46:58 877] network    549  update iplist http resp  nil  0  udata(c089c8) 
+[2016/08/13 19:46:58 877] network    573  update iplist ok  
+[2016/08/13 19:46:58 877] network    595  not encrypted!  
+[2016/08/13 19:46:58 877] network    497  dev.voicecloud.cn  
+[2016/08/13 19:46:58 877] network    508  bj  
+[2016/08/13 19:46:58 877] network    510  bj  
+[2016/08/13 19:46:58 877] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/13 19:46:58 877] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/13 19:46:58 877] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/13 19:46:58 891] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/13 19:46:58 891] network    510  gz  
+[2016/08/13 19:46:58 891] network    510  hf  
+============================================================
+Time  2016/08/13 19:49:00 438 
+============================================================
+[2016/08/13 19:49:00 438] waiter     189  waiter loaded!  
+[2016/08/13 19:49:00 438] network    427  update_iplist  
+[2016/08/13 19:49:00 438] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/13 19:49:00 438] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/13 19:49:00 438] waiter     275  last gc at  1471088940  
+[2016/08/13 19:49:00 438] network    427  update_iplist  
+[2016/08/13 19:49:00 438] waiter     275  last gc at  1471088940  
+[2016/08/13 19:49:00 438] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/13 19:49:00 470] waiter     275  last gc at  1471088940  
+[2016/08/13 19:49:00 470] network    174  dns resp  0  
+[2016/08/13 19:49:00 470] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/13 19:49:00 470] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/13 19:49:00 484] network    233  connected  
+[2016/08/13 19:49:00 484] network    236  send ok  93  
+[2016/08/13 19:49:00 500] network    233  connected  
+[2016/08/13 19:49:00 500] network    236  send ok  94  
+[2016/08/13 19:49:00 516] network    239  readable  
+[2016/08/13 19:49:00 516] network    927  port1028 http resp  nil  0  udata(12a4300) 
+[2016/08/13 19:49:00 516] network    934  set preferred_port: 1028  
+[2016/08/13 19:49:00 532] network    239  readable  
+[2016/08/13 19:49:00 532] network    549  update iplist http resp  nil  0  udata(3496430) 
+[2016/08/13 19:49:00 532] network    573  update iplist ok  
+[2016/08/13 19:49:00 532] network    595  not encrypted!  
+[2016/08/13 19:49:00 532] network    497  dev.voicecloud.cn  
+[2016/08/13 19:49:00 532] network    508  bj  
+[2016/08/13 19:49:00 532] network    510  bj  
+[2016/08/13 19:49:00 532] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/13 19:49:00 532] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/13 19:49:00 532] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/13 19:49:00 532] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/13 19:49:00 532] network    510  gz  
+[2016/08/13 19:49:00 532] network    510  hf  
+[2016/08/13 19:49:00 532] network    427  update_iplist  
+[2016/08/13 19:49:00 532] waiter     275  last gc at  1471088940  
+============================================================
+Time  2016/08/13 19:53:14 266 
+============================================================
+[2016/08/13 19:53:14 266] waiter     189  waiter loaded!  
+[2016/08/13 19:53:14 266] network    427  update_iplist  
+[2016/08/13 19:53:14 266] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/13 19:53:14 266] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/13 19:53:14 267] waiter     275  last gc at  1471089194  
+[2016/08/13 19:53:14 267] network    427  update_iplist  
+[2016/08/13 19:53:14 267] waiter     275  last gc at  1471089194  
+[2016/08/13 19:53:14 267] network    208  gethttpresp2  116.213.69.201  1028  
+[2016/08/13 19:53:14 286] waiter     275  last gc at  1471089194  
+[2016/08/13 19:53:14 288] network    174  dns resp  0  
+[2016/08/13 19:53:14 288] network    317  gethttpresp dns ok  116.213.69.201  
+[2016/08/13 19:53:14 289] network    208  gethttpresp2  116.213.69.201  80  
+[2016/08/13 19:53:14 325] network    233  connected  
+[2016/08/13 19:53:14 325] network    236  send ok  93  
+[2016/08/13 19:53:14 329] network    427  update_iplist  
+[2016/08/13 19:53:14 329] waiter     275  last gc at  1471089194  
+[2016/08/13 19:53:14 345] network    239  readable  
+[2016/08/13 19:53:14 346] network    927  port1028 http resp  nil  0  udata(12a97c0) 
+[2016/08/13 19:53:14 346] network    934  set preferred_port: 1028  
+[2016/08/13 19:53:14 355] network    233  connected  
+[2016/08/13 19:53:14 355] network    236  send ok  94  
+[2016/08/13 19:53:14 381] network    239  readable  
+[2016/08/13 19:53:14 381] network    549  update iplist http resp  nil  0  udata(12a9670) 
+[2016/08/13 19:53:14 381] network    573  update iplist ok  
+[2016/08/13 19:53:14 381] network    595  not encrypted!  
+[2016/08/13 19:53:14 384] network    497  dev.voicecloud.cn  
+[2016/08/13 19:53:14 384] network    508  bj  
+[2016/08/13 19:53:14 384] network    510  bj  
+[2016/08/13 19:53:14 384] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/13 19:53:14 384] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/13 19:53:14 384] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/13 19:53:14 384] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/13 19:53:14 385] network    510  gz  
+[2016/08/13 19:53:14 385] network    510  hf  
+============================================================
+Time  2016/08/13 20:09:18 260 
+============================================================
+[2016/08/13 20:09:18 260] waiter     189  waiter loaded!  
+[2016/08/13 20:09:18 262] network    427  update_iplist  
+[2016/08/13 20:09:18 262] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/13 20:09:18 262] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/13 20:09:18 262] waiter     275  last gc at  1471090158  
+[2016/08/13 20:09:18 262] network    427  update_iplist  
+[2016/08/13 20:09:18 262] waiter     275  last gc at  1471090158  
+[2016/08/13 20:09:18 262] network    208  gethttpresp2  116.213.69.201  1028  
+[2016/08/13 20:09:18 280] waiter     275  last gc at  1471090158  
+[2016/08/13 20:09:18 282] network    174  dns resp  0  
+[2016/08/13 20:09:18 282] network    317  gethttpresp dns ok  116.213.69.201  
+[2016/08/13 20:09:18 282] network    208  gethttpresp2  116.213.69.201  80  
+[2016/08/13 20:09:18 303] network    233  connected  
+[2016/08/13 20:09:18 303] network    236  send ok  93  
+[2016/08/13 20:09:18 325] network    233  connected  
+[2016/08/13 20:09:18 325] network    236  send ok  94  
+[2016/08/13 20:09:18 335] network    239  readable  
+[2016/08/13 20:09:18 336] network    927  port1028 http resp  nil  0  udata(1465d38) 
+[2016/08/13 20:09:18 336] network    934  set preferred_port: 1028  
+[2016/08/13 20:09:18 336] network    427  update_iplist  
+[2016/08/13 20:09:18 336] waiter     275  last gc at  1471090158  
+[2016/08/13 20:09:18 351] network    239  readable  
+[2016/08/13 20:09:18 351] network    549  update iplist http resp  nil  0  udata(1465c18) 
+[2016/08/13 20:09:18 351] network    573  update iplist ok  
+[2016/08/13 20:09:18 351] network    595  not encrypted!  
+[2016/08/13 20:09:18 354] network    497  dev.voicecloud.cn  
+[2016/08/13 20:09:18 354] network    508  bj  
+[2016/08/13 20:09:18 354] network    510  bj  
+[2016/08/13 20:09:18 354] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/13 20:09:18 354] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/13 20:09:18 355] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/13 20:09:18 355] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/13 20:09:18 355] network    510  gz  
+[2016/08/13 20:09:18 355] network    510  hf  
+============================================================
+Time  2016/08/19 14:59:32 642 
+============================================================
+[2016/08/19 14:59:32 654] waiter     189  waiter loaded!  
+[2016/08/19 14:59:32 654] network    427  update_iplist  
+[2016/08/19 14:59:32 654] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 14:59:32 654] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 14:59:32 654] waiter     275  last gc at  1471589972  
+[2016/08/19 14:59:32 654] network    427  update_iplist  
+[2016/08/19 14:59:32 654] waiter     275  last gc at  1471589972  
+[2016/08/19 14:59:32 654] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/19 14:59:32 688] waiter     275  last gc at  1471589972  
+[2016/08/19 14:59:32 690] network    174  dns resp  0  
+[2016/08/19 14:59:32 690] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/19 14:59:32 691] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/19 14:59:32 713] network    233  connected  
+[2016/08/19 14:59:32 714] network    236  send ok  93  
+[2016/08/19 14:59:32 740] network    427  update_iplist  
+[2016/08/19 14:59:32 740] waiter     275  last gc at  1471589972  
+[2016/08/19 14:59:32 746] network    233  connected  
+[2016/08/19 14:59:32 746] network    236  send ok  94  
+[2016/08/19 14:59:32 757] network    239  readable  
+[2016/08/19 14:59:32 759] network    927  port1028 http resp  nil  0  udata(13fb108) 
+[2016/08/19 14:59:32 759] network    934  set preferred_port: 1028  
+[2016/08/19 14:59:32 779] network    239  readable  
+[2016/08/19 14:59:32 782] network    549  update iplist http resp  nil  0  udata(13fb0d8) 
+[2016/08/19 14:59:32 782] network    573  update iplist ok  
+[2016/08/19 14:59:32 782] network    595  not encrypted!  
+[2016/08/19 14:59:32 785] network    497  dev.voicecloud.cn  
+[2016/08/19 14:59:32 785] network    508  bj  
+[2016/08/19 14:59:32 785] network    510  bj  
+[2016/08/19 14:59:32 785] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 14:59:32 786] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 14:59:32 788] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 14:59:32 789] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 14:59:32 790] network    510  gz  
+[2016/08/19 14:59:32 793] network    510  hf  
+============================================================
+Time  2016/08/19 19:30:16 135 
+============================================================
+[2016/08/19 19:30:16 135] waiter     189  waiter loaded!  
+[2016/08/19 19:30:16 135] network    427  update_iplist  
+[2016/08/19 19:30:16 135] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 19:30:16 135] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 19:30:16 138] waiter     275  last gc at  1471606216  
+[2016/08/19 19:30:16 138] network    427  update_iplist  
+[2016/08/19 19:30:16 138] waiter     275  last gc at  1471606216  
+[2016/08/19 19:30:16 140] network    208  gethttpresp2  117.121.21.147  1028  
+[2016/08/19 19:30:16 145] waiter     275  last gc at  1471606216  
+[2016/08/19 19:30:16 145] network    174  dns resp  0  
+[2016/08/19 19:30:16 145] network    317  gethttpresp dns ok  117.121.21.147  
+[2016/08/19 19:30:16 145] network    208  gethttpresp2  117.121.21.147  80  
+[2016/08/19 19:30:16 164] network    233  connected  
+[2016/08/19 19:30:16 164] network    236  send ok  93  
+[2016/08/19 19:30:16 188] network    233  connected  
+[2016/08/19 19:30:16 190] network    236  send ok  94  
+[2016/08/19 19:30:16 200] network    239  readable  
+[2016/08/19 19:30:16 200] network    927  port1028 http resp  nil  0  udata(2973878) 
+[2016/08/19 19:30:16 200] network    934  set preferred_port: 1028  
+[2016/08/19 19:30:16 219] network    239  readable  
+[2016/08/19 19:30:16 219] network    549  update iplist http resp  nil  0  udata(29738a8) 
+[2016/08/19 19:30:16 219] network    573  update iplist ok  
+[2016/08/19 19:30:16 220] network    595  not encrypted!  
+[2016/08/19 19:30:16 220] network    497  dev.voicecloud.cn  
+[2016/08/19 19:30:16 220] network    508  bj  
+[2016/08/19 19:30:16 220] network    510  bj  
+[2016/08/19 19:30:16 220] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 19:30:16 221] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 19:30:16 221] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 19:30:16 223] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 19:30:16 223] network    510  gz  
+[2016/08/19 19:30:16 223] network    510  hf  
+============================================================
+Time  2016/08/19 19:39:41 351 
+============================================================
+[2016/08/19 19:39:41 351] waiter     189  waiter loaded!  
+[2016/08/19 19:39:41 352] network    427  update_iplist  
+[2016/08/19 19:39:41 352] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 19:39:41 352] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 19:39:41 352] waiter     275  last gc at  1471606781  
+[2016/08/19 19:39:41 355] network    427  update_iplist  
+[2016/08/19 19:39:41 355] waiter     275  last gc at  1471606781  
+[2016/08/19 19:39:41 357] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/19 19:39:41 372] waiter     275  last gc at  1471606781  
+[2016/08/19 19:39:41 372] network    174  dns resp  0  
+[2016/08/19 19:39:41 374] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/19 19:39:41 374] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/19 19:39:41 400] network    233  connected  
+[2016/08/19 19:39:41 400] network    236  send ok  93  
+[2016/08/19 19:39:41 414] network    233  connected  
+[2016/08/19 19:39:41 414] network    236  send ok  94  
+[2016/08/19 19:39:41 427] network    239  readable  
+[2016/08/19 19:39:41 427] network    927  port1028 http resp  nil  0  udata(1288640) 
+[2016/08/19 19:39:41 427] network    934  set preferred_port: 1028  
+[2016/08/19 19:39:41 440] network    239  readable  
+[2016/08/19 19:39:41 441] network    549  update iplist http resp  nil  0  udata(36c94c0) 
+[2016/08/19 19:39:41 441] network    573  update iplist ok  
+[2016/08/19 19:39:41 441] network    595  not encrypted!  
+[2016/08/19 19:39:41 444] network    497  dev.voicecloud.cn  
+[2016/08/19 19:39:41 444] network    508  bj  
+[2016/08/19 19:39:41 444] network    510  bj  
+[2016/08/19 19:39:41 444] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 19:39:41 444] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 19:39:41 444] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 19:39:41 446] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 19:39:41 447] network    510  gz  
+[2016/08/19 19:39:41 447] network    510  hf  
+============================================================
+Time  2016/08/19 20:12:32 619 
+============================================================
+[2016/08/19 20:12:32 621] waiter     189  waiter loaded!  
+[2016/08/19 20:12:32 621] network    427  update_iplist  
+[2016/08/19 20:12:32 622] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 20:12:32 622] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 20:12:32 622] waiter     275  last gc at  1471608752  
+[2016/08/19 20:12:32 622] network    427  update_iplist  
+[2016/08/19 20:12:32 622] waiter     275  last gc at  1471608752  
+[2016/08/19 20:12:32 622] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/19 20:12:32 627] waiter     275  last gc at  1471608752  
+[2016/08/19 20:12:32 627] network    174  dns resp  0  
+[2016/08/19 20:12:32 627] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/19 20:12:32 627] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/19 20:12:32 653] network    233  connected  
+[2016/08/19 20:12:32 654] network    236  send ok  93  
+[2016/08/19 20:12:32 665] network    233  connected  
+[2016/08/19 20:12:32 665] network    236  send ok  94  
+[2016/08/19 20:12:32 687] network    239  readable  
+[2016/08/19 20:12:32 687] network    927  port1028 http resp  nil  0  udata(a36fd8) 
+[2016/08/19 20:12:32 687] network    934  set preferred_port: 1028  
+[2016/08/19 20:12:32 700] network    239  readable  
+[2016/08/19 20:12:32 700] network    549  update iplist http resp  nil  0  udata(a370f8) 
+[2016/08/19 20:12:32 700] network    573  update iplist ok  
+[2016/08/19 20:12:32 700] network    595  not encrypted!  
+[2016/08/19 20:12:32 701] network    497  dev.voicecloud.cn  
+[2016/08/19 20:12:32 701] network    508  bj  
+[2016/08/19 20:12:32 701] network    510  bj  
+[2016/08/19 20:12:32 701] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 20:12:32 703] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 20:12:32 703] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 20:12:32 703] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 20:12:32 704] network    510  gz  
+[2016/08/19 20:12:32 704] network    510  hf  
+============================================================
+Time  2016/08/19 20:13:14 739 
+============================================================
+[2016/08/19 20:13:14 739] waiter     189  waiter loaded!  
+[2016/08/19 20:13:14 740] network    427  update_iplist  
+[2016/08/19 20:13:14 740] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 20:13:14 740] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 20:13:14 742] waiter     275  last gc at  1471608794  
+[2016/08/19 20:13:14 743] network    427  update_iplist  
+[2016/08/19 20:13:14 743] waiter     275  last gc at  1471608794  
+[2016/08/19 20:13:14 743] network    208  gethttpresp2  117.121.21.147  1028  
+[2016/08/19 20:13:14 749] waiter     275  last gc at  1471608794  
+[2016/08/19 20:13:14 750] network    174  dns resp  0  
+[2016/08/19 20:13:14 750] network    317  gethttpresp dns ok  117.121.21.147  
+[2016/08/19 20:13:14 750] network    208  gethttpresp2  117.121.21.147  80  
+[2016/08/19 20:13:14 778] network    233  connected  
+[2016/08/19 20:13:14 779] network    236  send ok  93  
+[2016/08/19 20:13:14 796] network    233  connected  
+[2016/08/19 20:13:14 796] network    236  send ok  94  
+[2016/08/19 20:13:14 798] network    239  readable  
+[2016/08/19 20:13:14 799] network    927  port1028 http resp  nil  0  udata(3032f00) 
+[2016/08/19 20:13:14 799] network    934  set preferred_port: 1028  
+[2016/08/19 20:13:14 821] network    239  readable  
+[2016/08/19 20:13:14 821] network    549  update iplist http resp  nil  0  udata(3032d80) 
+[2016/08/19 20:13:14 822] network    573  update iplist ok  
+[2016/08/19 20:13:14 822] network    595  not encrypted!  
+[2016/08/19 20:13:14 822] network    497  dev.voicecloud.cn  
+[2016/08/19 20:13:14 822] network    508  bj  
+[2016/08/19 20:13:14 822] network    510  bj  
+[2016/08/19 20:13:14 822] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 20:13:14 823] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 20:13:14 823] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 20:13:14 825] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 20:13:14 825] network    510  gz  
+[2016/08/19 20:13:14 825] network    510  hf  
+============================================================
+Time  2016/08/19 20:32:23 385 
+============================================================
+[2016/08/19 20:32:23 385] waiter     189  waiter loaded!  
+[2016/08/19 20:32:23 385] network    427  update_iplist  
+[2016/08/19 20:32:23 387] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 20:32:23 387] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 20:32:23 388] waiter     275  last gc at  1471609943  
+[2016/08/19 20:32:23 388] network    427  update_iplist  
+[2016/08/19 20:32:23 388] waiter     275  last gc at  1471609943  
+[2016/08/19 20:32:23 390] network    208  gethttpresp2  116.213.69.201  1028  
+[2016/08/19 20:32:23 397] waiter     275  last gc at  1471609943  
+[2016/08/19 20:32:23 397] network    174  dns resp  0  
+[2016/08/19 20:32:23 397] network    317  gethttpresp dns ok  116.213.69.201  
+[2016/08/19 20:32:23 397] network    208  gethttpresp2  116.213.69.201  80  
+[2016/08/19 20:32:23 430] network    233  connected  
+[2016/08/19 20:32:23 431] network    236  send ok  93  
+[2016/08/19 20:32:23 467] network    233  connected  
+[2016/08/19 20:32:23 469] network    236  send ok  94  
+[2016/08/19 20:32:23 469] network    239  readable  
+[2016/08/19 20:32:23 470] network    927  port1028 http resp  nil  0  udata(2d97b40) 
+[2016/08/19 20:32:23 470] network    934  set preferred_port: 1028  
+[2016/08/19 20:32:23 494] network    239  readable  
+[2016/08/19 20:32:23 496] network    549  update iplist http resp  nil  0  udata(2d97b70) 
+[2016/08/19 20:32:23 496] network    573  update iplist ok  
+[2016/08/19 20:32:23 496] network    595  not encrypted!  
+[2016/08/19 20:32:23 497] network    497  dev.voicecloud.cn  
+[2016/08/19 20:32:23 497] network    508  bj  
+[2016/08/19 20:32:23 497] network    510  bj  
+[2016/08/19 20:32:23 497] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 20:32:23 497] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 20:32:23 499] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 20:32:23 500] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 20:32:23 500] network    510  gz  
+[2016/08/19 20:32:23 500] network    510  hf  
+============================================================
+Time  2016/08/19 21:03:54 391 
+============================================================
+[2016/08/19 21:03:54 391] waiter     189  waiter loaded!  
+[2016/08/19 21:03:54 394] network    427  update_iplist  
+[2016/08/19 21:03:54 394] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 21:03:54 394] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 21:03:54 398] waiter     275  last gc at  1471611834  
+[2016/08/19 21:03:54 398] network    427  update_iplist  
+[2016/08/19 21:03:54 398] waiter     275  last gc at  1471611834  
+[2016/08/19 21:03:54 398] network    208  gethttpresp2  117.121.21.147  1028  
+[2016/08/19 21:03:54 404] waiter     275  last gc at  1471611834  
+[2016/08/19 21:03:54 404] network    174  dns resp  0  
+[2016/08/19 21:03:54 404] network    317  gethttpresp dns ok  117.121.21.147  
+[2016/08/19 21:03:54 404] network    208  gethttpresp2  117.121.21.147  80  
+[2016/08/19 21:03:54 434] network    233  connected  
+[2016/08/19 21:03:54 434] network    236  send ok  93  
+[2016/08/19 21:03:54 459] network    239  readable  
+[2016/08/19 21:03:54 460] network    927  port1028 http resp  nil  0  udata(1246b10) 
+[2016/08/19 21:03:54 460] network    934  set preferred_port: 1028  
+[2016/08/19 21:03:54 460] network    233  connected  
+[2016/08/19 21:03:54 460] network    236  send ok  94  
+[2016/08/19 21:03:54 486] network    239  readable  
+[2016/08/19 21:03:54 500] network    239  readable  
+[2016/08/19 21:03:54 500] network    549  update iplist http resp  nil  0  udata(3656470) 
+[2016/08/19 21:03:54 500] network    573  update iplist ok  
+[2016/08/19 21:03:54 500] network    595  not encrypted!  
+[2016/08/19 21:03:54 502] network    497  dev.voicecloud.cn  
+[2016/08/19 21:03:54 502] network    508  bj  
+[2016/08/19 21:03:54 502] network    510  bj  
+[2016/08/19 21:03:54 502] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 21:03:54 503] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 21:03:54 503] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 21:03:54 503] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 21:03:54 505] network    510  gz  
+[2016/08/19 21:03:54 505] network    510  hf  
+============================================================
+Time  2016/08/19 21:05:12 239 
+============================================================
+[2016/08/19 21:05:12 240] waiter     189  waiter loaded!  
+[2016/08/19 21:05:12 240] network    427  update_iplist  
+[2016/08/19 21:05:12 242] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 21:05:12 242] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 21:05:12 242] waiter     275  last gc at  1471611912  
+[2016/08/19 21:05:12 243] network    427  update_iplist  
+[2016/08/19 21:05:12 243] waiter     275  last gc at  1471611912  
+[2016/08/19 21:05:12 243] network    208  gethttpresp2  117.121.21.149  1028  
+[2016/08/19 21:05:12 250] waiter     275  last gc at  1471611912  
+[2016/08/19 21:05:12 250] network    174  dns resp  0  
+[2016/08/19 21:05:12 250] network    317  gethttpresp dns ok  117.121.21.149  
+[2016/08/19 21:05:12 250] network    208  gethttpresp2  117.121.21.149  80  
+[2016/08/19 21:05:12 280] network    233  connected  
+[2016/08/19 21:05:12 282] network    236  send ok  93  
+[2016/08/19 21:05:12 299] network    233  connected  
+[2016/08/19 21:05:12 301] network    236  send ok  94  
+[2016/08/19 21:05:12 303] network    239  readable  
+[2016/08/19 21:05:12 303] network    927  port1028 http resp  nil  0  udata(12e2980) 
+[2016/08/19 21:05:12 303] network    934  set preferred_port: 1028  
+[2016/08/19 21:05:12 325] network    239  readable  
+[2016/08/19 21:05:12 326] network    549  update iplist http resp  nil  0  udata(12e2fb0) 
+[2016/08/19 21:05:12 326] network    573  update iplist ok  
+[2016/08/19 21:05:12 326] network    595  not encrypted!  
+[2016/08/19 21:05:12 328] network    497  dev.voicecloud.cn  
+[2016/08/19 21:05:12 328] network    508  bj  
+[2016/08/19 21:05:12 328] network    510  bj  
+[2016/08/19 21:05:12 328] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 21:05:12 328] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 21:05:12 329] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 21:05:12 329] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 21:05:12 331] network    510  gz  
+[2016/08/19 21:05:12 331] network    510  hf  
+============================================================
+Time  2016/08/19 21:18:52 053 
+============================================================
+[2016/08/19 21:18:52 053] waiter     189  waiter loaded!  
+[2016/08/19 21:18:52 055] network    427  update_iplist  
+[2016/08/19 21:18:52 055] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 21:18:52 055] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 21:18:52 055] waiter     275  last gc at  1471612732  
+[2016/08/19 21:18:52 058] network    427  update_iplist  
+[2016/08/19 21:18:52 058] waiter     275  last gc at  1471612732  
+[2016/08/19 21:18:52 058] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/19 21:18:52 062] waiter     275  last gc at  1471612732  
+[2016/08/19 21:18:52 062] network    174  dns resp  0  
+[2016/08/19 21:18:52 062] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/19 21:18:52 062] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/19 21:18:52 091] network    233  connected  
+[2016/08/19 21:18:52 092] network    236  send ok  93  
+[2016/08/19 21:18:52 108] network    233  connected  
+[2016/08/19 21:18:52 108] network    236  send ok  94  
+[2016/08/19 21:18:52 118] network    239  readable  
+[2016/08/19 21:18:52 119] network    927  port1028 http resp  nil  0  udata(ff5c90) 
+[2016/08/19 21:18:52 119] network    934  set preferred_port: 1028  
+[2016/08/19 21:18:52 131] network    427  update_iplist  
+[2016/08/19 21:18:52 131] waiter     275  last gc at  1471612732  
+[2016/08/19 21:18:52 144] network    239  readable  
+[2016/08/19 21:18:52 144] network    549  update iplist http resp  nil  0  udata(ff5cc0) 
+[2016/08/19 21:18:52 144] network    573  update iplist ok  
+[2016/08/19 21:18:52 144] network    595  not encrypted!  
+[2016/08/19 21:18:52 147] network    497  dev.voicecloud.cn  
+[2016/08/19 21:18:52 147] network    508  bj  
+[2016/08/19 21:18:52 147] network    510  bj  
+[2016/08/19 21:18:52 147] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 21:18:52 147] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 21:18:52 148] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 21:18:52 148] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 21:18:52 148] network    510  gz  
+[2016/08/19 21:18:52 148] network    510  hf  
+============================================================
+Time  2016/08/19 21:23:55 605 
+============================================================
+[2016/08/19 21:23:55 607] waiter     189  waiter loaded!  
+[2016/08/19 21:23:55 607] network    427  update_iplist  
+[2016/08/19 21:23:55 607] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 21:23:55 607] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 21:23:55 608] waiter     275  last gc at  1471613035  
+[2016/08/19 21:23:55 608] network    427  update_iplist  
+[2016/08/19 21:23:55 608] waiter     275  last gc at  1471613035  
+[2016/08/19 21:23:55 609] network    208  gethttpresp2  116.213.69.201  1028  
+[2016/08/19 21:23:55 615] waiter     275  last gc at  1471613035  
+[2016/08/19 21:23:55 615] network    174  dns resp  0  
+[2016/08/19 21:23:55 615] network    317  gethttpresp dns ok  116.213.69.201  
+[2016/08/19 21:23:55 615] network    208  gethttpresp2  116.213.69.201  80  
+[2016/08/19 21:23:55 638] network    233  connected  
+[2016/08/19 21:23:55 638] network    236  send ok  93  
+[2016/08/19 21:23:55 667] network    233  connected  
+[2016/08/19 21:23:55 667] network    236  send ok  94  
+[2016/08/19 21:23:55 677] network    239  readable  
+[2016/08/19 21:23:55 678] network    927  port1028 http resp  nil  0  udata(eb2540) 
+[2016/08/19 21:23:55 678] network    934  set preferred_port: 1028  
+[2016/08/19 21:23:55 697] network    239  readable  
+[2016/08/19 21:23:55 697] network    549  update iplist http resp  nil  0  udata(eb2270) 
+[2016/08/19 21:23:55 697] network    573  update iplist ok  
+[2016/08/19 21:23:55 697] network    595  not encrypted!  
+[2016/08/19 21:23:55 700] network    497  dev.voicecloud.cn  
+[2016/08/19 21:23:55 700] network    508  bj  
+[2016/08/19 21:23:55 700] network    510  bj  
+[2016/08/19 21:23:55 700] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 21:23:55 700] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 21:23:55 700] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 21:23:55 701] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 21:23:55 703] network    510  gz  
+[2016/08/19 21:23:55 703] network    510  hf  
+============================================================
+Time  2016/08/19 21:34:46 158 
+============================================================
+[2016/08/19 21:34:46 160] waiter     189  waiter loaded!  
+[2016/08/19 21:34:46 161] network    427  update_iplist  
+[2016/08/19 21:34:46 161] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 21:34:46 161] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 21:34:46 161] waiter     275  last gc at  1471613686  
+[2016/08/19 21:34:46 161] network    427  update_iplist  
+[2016/08/19 21:34:46 163] waiter     275  last gc at  1471613686  
+[2016/08/19 21:34:46 164] network    208  gethttpresp2  117.121.21.149  1028  
+[2016/08/19 21:34:46 171] waiter     275  last gc at  1471613686  
+[2016/08/19 21:34:46 171] network    174  dns resp  0  
+[2016/08/19 21:34:46 171] network    317  gethttpresp dns ok  117.121.21.149  
+[2016/08/19 21:34:46 171] network    208  gethttpresp2  117.121.21.149  80  
+[2016/08/19 21:34:46 191] network    233  connected  
+[2016/08/19 21:34:46 194] network    236  send ok  93  
+[2016/08/19 21:34:46 211] network    233  connected  
+[2016/08/19 21:34:46 213] network    236  send ok  94  
+[2016/08/19 21:34:46 213] network    239  readable  
+[2016/08/19 21:34:46 213] network    927  port1028 http resp  nil  0  udata(2995278) 
+[2016/08/19 21:34:46 213] network    934  set preferred_port: 1028  
+[2016/08/19 21:34:46 237] network    239  readable  
+[2016/08/19 21:34:46 239] network    549  update iplist http resp  nil  0  udata(29950f8) 
+[2016/08/19 21:34:46 239] network    573  update iplist ok  
+[2016/08/19 21:34:46 239] network    595  not encrypted!  
+[2016/08/19 21:34:46 240] network    497  dev.voicecloud.cn  
+[2016/08/19 21:34:46 240] network    508  bj  
+[2016/08/19 21:34:46 240] network    510  bj  
+[2016/08/19 21:34:46 240] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 21:34:46 240] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 21:34:46 242] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 21:34:46 243] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 21:34:46 243] network    510  gz  
+[2016/08/19 21:34:46 243] network    510  hf  
+============================================================
+Time  2016/08/19 22:01:10 378 
+============================================================
+[2016/08/19 22:01:10 378] waiter     189  waiter loaded!  
+[2016/08/19 22:01:10 378] network    427  update_iplist  
+[2016/08/19 22:01:10 378] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 22:01:10 378] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 22:01:10 392] waiter     275  last gc at  1471615270  
+[2016/08/19 22:01:10 394] network    427  update_iplist  
+[2016/08/19 22:01:10 398] waiter     275  last gc at  1471615270  
+[2016/08/19 22:01:10 398] network    208  gethttpresp2  116.213.69.201  1028  
+[2016/08/19 22:01:10 408] waiter     275  last gc at  1471615270  
+[2016/08/19 22:01:10 408] network    174  dns resp  0  
+[2016/08/19 22:01:10 408] network    317  gethttpresp dns ok  116.213.69.201  
+[2016/08/19 22:01:10 408] network    208  gethttpresp2  116.213.69.201  80  
+[2016/08/19 22:01:10 437] network    233  connected  
+[2016/08/19 22:01:10 438] network    236  send ok  93  
+[2016/08/19 22:01:10 446] network    233  connected  
+[2016/08/19 22:01:10 447] network    236  send ok  94  
+[2016/08/19 22:01:10 460] network    239  readable  
+[2016/08/19 22:01:10 460] network    927  port1028 http resp  nil  0  udata(3305818) 
+[2016/08/19 22:01:10 460] network    934  set preferred_port: 1028  
+[2016/08/19 22:01:10 474] network    239  readable  
+[2016/08/19 22:01:10 476] network    549  update iplist http resp  nil  0  udata(3305998) 
+[2016/08/19 22:01:10 476] network    573  update iplist ok  
+[2016/08/19 22:01:10 476] network    595  not encrypted!  
+[2016/08/19 22:01:10 477] network    497  dev.voicecloud.cn  
+[2016/08/19 22:01:10 477] network    508  bj  
+[2016/08/19 22:01:10 477] network    510  bj  
+[2016/08/19 22:01:10 479] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 22:01:10 479] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 22:01:10 480] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 22:01:10 480] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 22:01:10 480] network    510  gz  
+[2016/08/19 22:01:10 480] network    510  hf  
+============================================================
+Time  2016/08/19 22:02:01 329 
+============================================================
+[2016/08/19 22:02:01 331] waiter     189  waiter loaded!  
+[2016/08/19 22:02:01 331] network    427  update_iplist  
+[2016/08/19 22:02:01 331] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 22:02:01 331] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 22:02:01 352] waiter     275  last gc at  1471615321  
+[2016/08/19 22:02:01 352] network    427  update_iplist  
+[2016/08/19 22:02:01 352] waiter     275  last gc at  1471615321  
+[2016/08/19 22:02:01 355] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/19 22:02:01 368] waiter     275  last gc at  1471615321  
+[2016/08/19 22:02:01 369] network    174  dns resp  0  
+[2016/08/19 22:02:01 369] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/19 22:02:01 369] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/19 22:02:01 414] network    233  connected  
+[2016/08/19 22:02:01 415] network    236  send ok  93  
+[2016/08/19 22:02:01 424] network    233  connected  
+[2016/08/19 22:02:01 426] network    236  send ok  94  
+[2016/08/19 22:02:01 444] network    239  readable  
+[2016/08/19 22:02:01 444] network    927  port1028 http resp  nil  0  udata(a4a3e8) 
+[2016/08/19 22:02:01 444] network    934  set preferred_port: 1028  
+[2016/08/19 22:02:01 460] network    239  readable  
+[2016/08/19 22:02:01 460] network    549  update iplist http resp  nil  0  udata(a4a718) 
+[2016/08/19 22:02:01 460] network    573  update iplist ok  
+[2016/08/19 22:02:01 460] network    595  not encrypted!  
+[2016/08/19 22:02:01 463] network    497  dev.voicecloud.cn  
+[2016/08/19 22:02:01 463] network    508  bj  
+[2016/08/19 22:02:01 463] network    510  bj  
+[2016/08/19 22:02:01 463] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 22:02:01 463] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 22:02:01 463] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 22:02:01 464] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 22:02:01 466] network    510  gz  
+[2016/08/19 22:02:01 466] network    510  hf  
+[2016/08/19 22:02:01 466] network    427  update_iplist  
+[2016/08/19 22:02:01 466] waiter     275  last gc at  1471615321  
+============================================================
+Time  2016/08/19 22:02:44 852 
+============================================================
+[2016/08/19 22:02:44 854] waiter     189  waiter loaded!  
+[2016/08/19 22:02:44 854] network    427  update_iplist  
+[2016/08/19 22:02:44 854] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 22:02:44 861] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 22:02:44 861] waiter     275  last gc at  1471615364  
+[2016/08/19 22:02:44 864] network    427  update_iplist  
+[2016/08/19 22:02:44 864] waiter     275  last gc at  1471615364  
+[2016/08/19 22:02:44 865] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/19 22:02:44 872] waiter     275  last gc at  1471615364  
+[2016/08/19 22:02:44 874] network    174  dns resp  0  
+[2016/08/19 22:02:44 874] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/19 22:02:44 874] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/19 22:02:44 907] network    233  connected  
+[2016/08/19 22:02:44 907] network    236  send ok  93  
+[2016/08/19 22:02:44 927] network    233  connected  
+[2016/08/19 22:02:44 928] network    236  send ok  94  
+[2016/08/19 22:02:44 944] network    239  readable  
+[2016/08/19 22:02:44 944] network    927  port1028 http resp  nil  0  udata(305e8a8) 
+[2016/08/19 22:02:44 944] network    934  set preferred_port: 1028  
+[2016/08/19 22:02:44 960] network    239  readable  
+[2016/08/19 22:02:44 973] network    239  readable  
+[2016/08/19 22:02:44 974] network    549  update iplist http resp  nil  0  udata(305e698) 
+[2016/08/19 22:02:44 974] network    573  update iplist ok  
+[2016/08/19 22:02:44 974] network    595  not encrypted!  
+[2016/08/19 22:02:44 976] network    497  dev.voicecloud.cn  
+[2016/08/19 22:02:44 976] network    508  bj  
+[2016/08/19 22:02:44 976] network    510  bj  
+[2016/08/19 22:02:44 976] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 22:02:44 976] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 22:02:44 977] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 22:02:44 979] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 22:02:44 979] network    510  gz  
+[2016/08/19 22:02:44 979] network    510  hf  
+============================================================
+Time  2016/08/19 22:03:41 273 
+============================================================
+[2016/08/19 22:03:41 273] waiter     189  waiter loaded!  
+[2016/08/19 22:03:41 273] network    427  update_iplist  
+[2016/08/19 22:03:41 273] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/19 22:03:41 273] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/19 22:03:41 273] waiter     275  last gc at  1471615421  
+[2016/08/19 22:03:41 276] network    427  update_iplist  
+[2016/08/19 22:03:41 276] waiter     275  last gc at  1471615421  
+[2016/08/19 22:03:41 279] network    208  gethttpresp2  117.121.21.147  1028  
+[2016/08/19 22:03:41 286] waiter     275  last gc at  1471615421  
+[2016/08/19 22:03:41 288] network    174  dns resp  0  
+[2016/08/19 22:03:41 288] network    317  gethttpresp dns ok  117.121.21.147  
+[2016/08/19 22:03:41 288] network    208  gethttpresp2  117.121.21.147  80  
+[2016/08/19 22:03:41 308] network    233  connected  
+[2016/08/19 22:03:41 309] network    236  send ok  93  
+[2016/08/19 22:03:41 328] network    233  connected  
+[2016/08/19 22:03:41 328] network    236  send ok  94  
+[2016/08/19 22:03:41 329] network    239  readable  
+[2016/08/19 22:03:41 331] network    927  port1028 http resp  nil  0  udata(2cd4a10) 
+[2016/08/19 22:03:41 331] network    934  set preferred_port: 1028  
+[2016/08/19 22:03:41 349] network    427  update_iplist  
+[2016/08/19 22:03:41 349] waiter     275  last gc at  1471615421  
+[2016/08/19 22:03:41 361] network    239  readable  
+[2016/08/19 22:03:41 362] network    549  update iplist http resp  nil  0  udata(2cd47a0) 
+[2016/08/19 22:03:41 362] network    573  update iplist ok  
+[2016/08/19 22:03:41 362] network    595  not encrypted!  
+[2016/08/19 22:03:41 365] network    497  dev.voicecloud.cn  
+[2016/08/19 22:03:41 365] network    508  bj  
+[2016/08/19 22:03:41 365] network    510  bj  
+[2016/08/19 22:03:41 365] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/19 22:03:41 365] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/19 22:03:41 365] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/19 22:03:41 367] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/19 22:03:41 367] network    510  gz  
+[2016/08/19 22:03:41 367] network    510  hf  
+============================================================
+Time  2016/08/20 09:03:07 112 
+============================================================
+[2016/08/20 09:03:07 196] waiter     189  waiter loaded!  
+[2016/08/20 09:03:07 196] network    427  update_iplist  
+[2016/08/20 09:03:07 196] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 09:03:07 196] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 09:03:07 196] waiter     275  last gc at  1471654987  
+[2016/08/20 09:03:07 196] network    427  update_iplist  
+[2016/08/20 09:03:07 196] waiter     275  last gc at  1471654987  
+[2016/08/20 09:03:07 197] network    208  gethttpresp2  117.121.21.149  1028  
+[2016/08/20 09:03:07 223] waiter     275  last gc at  1471654987  
+[2016/08/20 09:03:07 223] network    427  update_iplist  
+[2016/08/20 09:03:07 223] waiter     275  last gc at  1471654987  
+[2016/08/20 09:03:07 223] network    174  dns resp  0  
+[2016/08/20 09:03:07 224] network    317  gethttpresp dns ok  117.121.21.149  
+[2016/08/20 09:03:07 224] network    208  gethttpresp2  117.121.21.149  80  
+[2016/08/20 09:03:07 244] network    233  connected  
+[2016/08/20 09:03:07 246] network    236  send ok  93  
+[2016/08/20 09:03:07 266] network    233  connected  
+[2016/08/20 09:03:07 267] network    236  send ok  94  
+[2016/08/20 09:03:07 276] network    239  readable  
+[2016/08/20 09:03:07 278] network    927  port1028 http resp  nil  0  udata(14723a8) 
+[2016/08/20 09:03:07 278] network    934  set preferred_port: 1028  
+[2016/08/20 09:03:07 292] network    239  readable  
+[2016/08/20 09:03:07 305] network    239  readable  
+[2016/08/20 09:03:07 305] network    549  update iplist http resp  nil  0  udata(1472108) 
+[2016/08/20 09:03:07 305] network    573  update iplist ok  
+[2016/08/20 09:03:07 305] network    595  not encrypted!  
+[2016/08/20 09:03:07 308] network    497  dev.voicecloud.cn  
+[2016/08/20 09:03:07 308] network    508  bj  
+[2016/08/20 09:03:07 308] network    510  bj  
+[2016/08/20 09:03:07 308] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 09:03:07 308] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 09:03:07 309] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 09:03:07 309] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 09:03:07 309] network    510  gz  
+[2016/08/20 09:03:07 309] network    510  hf  
+============================================================
+Time  2016/08/20 09:03:35 651 
+============================================================
+[2016/08/20 09:03:35 651] waiter     189  waiter loaded!  
+[2016/08/20 09:03:35 651] network    427  update_iplist  
+[2016/08/20 09:03:35 651] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 09:03:35 651] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 09:03:35 654] waiter     275  last gc at  1471655015  
+[2016/08/20 09:03:35 654] network    427  update_iplist  
+[2016/08/20 09:03:35 655] waiter     275  last gc at  1471655015  
+[2016/08/20 09:03:35 657] network    208  gethttpresp2  117.121.21.149  1028  
+[2016/08/20 09:03:35 663] waiter     275  last gc at  1471655015  
+[2016/08/20 09:03:35 663] network    174  dns resp  0  
+[2016/08/20 09:03:35 663] network    317  gethttpresp dns ok  117.121.21.149  
+[2016/08/20 09:03:35 663] network    208  gethttpresp2  117.121.21.149  80  
+[2016/08/20 09:03:35 730] network    233  connected  
+[2016/08/20 09:03:35 733] network    236  send ok  93  
+[2016/08/20 09:03:35 750] network    233  connected  
+[2016/08/20 09:03:35 750] network    236  send ok  94  
+[2016/08/20 09:03:35 752] network    239  readable  
+[2016/08/20 09:03:35 752] network    927  port1028 http resp  nil  0  udata(ce3448) 
+[2016/08/20 09:03:35 752] network    934  set preferred_port: 1028  
+[2016/08/20 09:03:35 770] network    239  readable  
+[2016/08/20 09:03:35 786] network    239  readable  
+[2016/08/20 09:03:35 786] network    549  update iplist http resp  nil  0  udata(ce3928) 
+[2016/08/20 09:03:35 786] network    573  update iplist ok  
+[2016/08/20 09:03:35 786] network    595  not encrypted!  
+[2016/08/20 09:03:35 788] network    497  dev.voicecloud.cn  
+[2016/08/20 09:03:35 788] network    508  bj  
+[2016/08/20 09:03:35 789] network    510  bj  
+[2016/08/20 09:03:35 789] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 09:03:35 789] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 09:03:35 789] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 09:03:35 789] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 09:03:35 790] network    510  gz  
+[2016/08/20 09:03:35 790] network    510  hf  
+[2016/08/20 09:03:35 792] network    427  update_iplist  
+[2016/08/20 09:03:35 792] waiter     275  last gc at  1471655015  
+============================================================
+Time  2016/08/20 09:28:37 141 
+============================================================
+[2016/08/20 09:28:37 141] waiter     189  waiter loaded!  
+[2016/08/20 09:28:37 142] network    427  update_iplist  
+[2016/08/20 09:28:37 142] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 09:28:37 142] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 09:28:37 144] waiter     275  last gc at  1471656517  
+[2016/08/20 09:28:37 144] network    427  update_iplist  
+[2016/08/20 09:28:37 144] waiter     275  last gc at  1471656517  
+[2016/08/20 09:28:37 145] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/20 09:28:37 151] waiter     275  last gc at  1471656517  
+[2016/08/20 09:28:37 151] network    174  dns resp  0  
+[2016/08/20 09:28:37 151] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/20 09:28:37 151] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/20 09:28:37 181] network    233  connected  
+[2016/08/20 09:28:37 184] network    236  send ok  93  
+[2016/08/20 09:28:37 203] network    233  connected  
+[2016/08/20 09:28:37 204] network    236  send ok  94  
+[2016/08/20 09:28:37 204] network    239  readable  
+[2016/08/20 09:28:37 206] network    927  port1028 http resp  nil  0  udata(afa0d8) 
+[2016/08/20 09:28:37 206] network    934  set preferred_port: 1028  
+[2016/08/20 09:28:37 223] network    427  update_iplist  
+[2016/08/20 09:28:37 223] waiter     275  last gc at  1471656517  
+[2016/08/20 09:28:37 236] network    239  readable  
+[2016/08/20 09:28:37 237] network    549  update iplist http resp  nil  0  udata(af9fb8) 
+[2016/08/20 09:28:37 237] network    573  update iplist ok  
+[2016/08/20 09:28:37 237] network    595  not encrypted!  
+[2016/08/20 09:28:37 240] network    497  dev.voicecloud.cn  
+[2016/08/20 09:28:37 240] network    508  bj  
+[2016/08/20 09:28:37 240] network    510  bj  
+[2016/08/20 09:28:37 240] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 09:28:37 240] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 09:28:37 240] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 09:28:37 242] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 09:28:37 242] network    510  gz  
+[2016/08/20 09:28:37 242] network    510  hf  
+============================================================
+Time  2016/08/20 09:29:21 993 
+============================================================
+[2016/08/20 09:29:21 993] waiter     189  waiter loaded!  
+[2016/08/20 09:29:21 993] network    427  update_iplist  
+[2016/08/20 09:29:21 994] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 09:29:21 994] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 09:29:21 994] waiter     275  last gc at  1471656561  
+[2016/08/20 09:29:21 997] network    427  update_iplist  
+[2016/08/20 09:29:21 997] waiter     275  last gc at  1471656561  
+[2016/08/20 09:29:22 000] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/20 09:29:22 029] waiter     275  last gc at  1471656561  
+[2016/08/20 09:29:22 029] network    174  dns resp  0  
+[2016/08/20 09:29:22 030] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/20 09:29:22 032] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/20 09:29:22 052] network    233  connected  
+[2016/08/20 09:29:22 052] network    236  send ok  93  
+[2016/08/20 09:29:22 065] network    427  update_iplist  
+[2016/08/20 09:29:22 065] waiter     275  last gc at  1471656561  
+[2016/08/20 09:29:22 082] network    233  connected  
+[2016/08/20 09:29:22 082] network    236  send ok  94  
+[2016/08/20 09:29:22 092] network    239  readable  
+[2016/08/20 09:29:22 094] network    927  port1028 http resp  nil  0  udata(9b6780) 
+[2016/08/20 09:29:22 094] network    934  set preferred_port: 1028  
+[2016/08/20 09:29:22 105] network    239  readable  
+[2016/08/20 09:29:22 118] network    239  readable  
+[2016/08/20 09:29:22 118] network    549  update iplist http resp  nil  0  udata(9b67b0) 
+[2016/08/20 09:29:22 118] network    573  update iplist ok  
+[2016/08/20 09:29:22 118] network    595  not encrypted!  
+[2016/08/20 09:29:22 121] network    497  dev.voicecloud.cn  
+[2016/08/20 09:29:22 121] network    508  bj  
+[2016/08/20 09:29:22 121] network    510  bj  
+[2016/08/20 09:29:22 121] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 09:29:22 121] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 09:29:22 121] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 09:29:22 122] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 09:29:22 122] network    510  gz  
+[2016/08/20 09:29:22 122] network    510  hf  
+============================================================
+Time  2016/08/20 10:43:07 197 
+============================================================
+[2016/08/20 10:43:07 232] waiter     189  waiter loaded!  
+[2016/08/20 10:43:07 233] network    427  update_iplist  
+[2016/08/20 10:43:07 233] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 10:43:07 233] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 10:43:07 233] waiter     275  last gc at  1471660987  
+[2016/08/20 10:43:07 233] network    427  update_iplist  
+[2016/08/20 10:43:07 233] waiter     275  last gc at  1471660987  
+[2016/08/20 10:43:07 233] network    208  gethttpresp2  117.121.21.147  1028  
+[2016/08/20 10:43:07 233] waiter     275  last gc at  1471660987  
+[2016/08/20 10:43:07 233] network    174  dns resp  0  
+[2016/08/20 10:43:07 233] network    317  gethttpresp dns ok  117.121.21.147  
+[2016/08/20 10:43:07 233] network    208  gethttpresp2  117.121.21.147  80  
+[2016/08/20 10:43:07 253] network    233  connected  
+[2016/08/20 10:43:07 253] network    236  send ok  93  
+[2016/08/20 10:43:07 265] network    427  update_iplist  
+[2016/08/20 10:43:07 265] waiter     275  last gc at  1471660987  
+[2016/08/20 10:43:07 273] network    239  readable  
+[2016/08/20 10:43:07 273] network    927  port1028 http resp  nil  0  udata(34f3080) 
+[2016/08/20 10:43:07 273] network    934  set preferred_port: 1028  
+[2016/08/20 10:43:07 285] network    233  connected  
+[2016/08/20 10:43:07 285] network    236  send ok  94  
+[2016/08/20 10:43:07 318] network    239  readable  
+[2016/08/20 10:43:07 318] network    549  update iplist http resp  nil  0  udata(34f3110) 
+[2016/08/20 10:43:07 318] network    573  update iplist ok  
+[2016/08/20 10:43:07 318] network    595  not encrypted!  
+[2016/08/20 10:43:07 319] network    497  dev.voicecloud.cn  
+[2016/08/20 10:43:07 319] network    508  bj  
+[2016/08/20 10:43:07 319] network    510  bj  
+[2016/08/20 10:43:07 319] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 10:43:07 319] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 10:43:07 319] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 10:43:07 321] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 10:43:07 321] network    510  gz  
+[2016/08/20 10:43:07 322] network    510  hf  
+============================================================
+Time  2016/08/20 10:43:43 737 
+============================================================
+[2016/08/20 10:43:43 737] waiter     189  waiter loaded!  
+[2016/08/20 10:43:43 746] network    427  update_iplist  
+[2016/08/20 10:43:43 747] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 10:43:43 747] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 10:43:43 747] waiter     275  last gc at  1471661023  
+[2016/08/20 10:43:43 747] network    427  update_iplist  
+[2016/08/20 10:43:43 747] waiter     275  last gc at  1471661023  
+[2016/08/20 10:43:43 749] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/20 10:43:43 753] waiter     275  last gc at  1471661023  
+[2016/08/20 10:43:43 753] network    174  dns resp  0  
+[2016/08/20 10:43:43 753] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/20 10:43:43 753] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/20 10:43:43 783] network    233  connected  
+[2016/08/20 10:43:43 786] network    236  send ok  93  
+[2016/08/20 10:43:43 805] network    233  connected  
+[2016/08/20 10:43:43 808] network    236  send ok  94  
+[2016/08/20 10:43:43 808] network    239  readable  
+[2016/08/20 10:43:43 808] network    927  port1028 http resp  nil  0  udata(1530350) 
+[2016/08/20 10:43:43 808] network    934  set preferred_port: 1028  
+[2016/08/20 10:43:43 825] network    427  update_iplist  
+[2016/08/20 10:43:43 825] waiter     275  last gc at  1471661023  
+[2016/08/20 10:43:43 836] network    239  readable  
+[2016/08/20 10:43:43 838] network    549  update iplist http resp  nil  0  udata(1530560) 
+[2016/08/20 10:43:43 838] network    573  update iplist ok  
+[2016/08/20 10:43:43 838] network    595  not encrypted!  
+[2016/08/20 10:43:43 838] network    497  dev.voicecloud.cn  
+[2016/08/20 10:43:43 838] network    508  bj  
+[2016/08/20 10:43:43 838] network    510  bj  
+[2016/08/20 10:43:43 838] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 10:43:43 839] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 10:43:43 841] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 10:43:43 841] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 10:43:43 842] network    510  gz  
+[2016/08/20 10:43:43 842] network    510  hf  
+============================================================
+Time  2016/08/20 10:46:22 029 
+============================================================
+[2016/08/20 10:46:22 029] waiter     189  waiter loaded!  
+[2016/08/20 10:46:22 030] network    427  update_iplist  
+[2016/08/20 10:46:22 032] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 10:46:22 032] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 10:46:22 032] waiter     275  last gc at  1471661182  
+[2016/08/20 10:46:22 033] network    427  update_iplist  
+[2016/08/20 10:46:22 033] waiter     275  last gc at  1471661182  
+[2016/08/20 10:46:22 033] network    208  gethttpresp2  116.213.69.201  1028  
+[2016/08/20 10:46:22 042] waiter     275  last gc at  1471661182  
+[2016/08/20 10:46:22 042] network    174  dns resp  0  
+[2016/08/20 10:46:22 042] network    317  gethttpresp dns ok  116.213.69.201  
+[2016/08/20 10:46:22 042] network    208  gethttpresp2  116.213.69.201  80  
+[2016/08/20 10:46:22 072] network    233  connected  
+[2016/08/20 10:46:22 073] network    236  send ok  93  
+[2016/08/20 10:46:22 095] network    233  connected  
+[2016/08/20 10:46:22 095] network    236  send ok  94  
+[2016/08/20 10:46:22 099] network    239  readable  
+[2016/08/20 10:46:22 101] network    927  port1028 http resp  nil  0  udata(2fe06f8) 
+[2016/08/20 10:46:22 101] network    934  set preferred_port: 1028  
+[2016/08/20 10:46:22 114] network    427  update_iplist  
+[2016/08/20 10:46:22 114] waiter     275  last gc at  1471661182  
+[2016/08/20 10:46:22 125] network    239  readable  
+[2016/08/20 10:46:22 127] network    549  update iplist http resp  nil  0  udata(2fe07b8) 
+[2016/08/20 10:46:22 127] network    573  update iplist ok  
+[2016/08/20 10:46:22 127] network    595  not encrypted!  
+[2016/08/20 10:46:22 128] network    497  dev.voicecloud.cn  
+[2016/08/20 10:46:22 128] network    508  bj  
+[2016/08/20 10:46:22 128] network    510  bj  
+[2016/08/20 10:46:22 128] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 10:46:22 128] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 10:46:22 130] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 10:46:22 131] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 10:46:22 131] network    510  gz  
+[2016/08/20 10:46:22 131] network    510  hf  
+============================================================
+Time  2016/08/20 14:34:02 727 
+============================================================
+[2016/08/20 14:34:02 729] waiter     189  waiter loaded!  
+[2016/08/20 14:34:02 729] network    427  update_iplist  
+[2016/08/20 14:34:02 730] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 14:34:02 730] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 14:34:02 730] waiter     275  last gc at  1471674842  
+[2016/08/20 14:34:02 733] network    427  update_iplist  
+[2016/08/20 14:34:02 733] waiter     275  last gc at  1471674842  
+[2016/08/20 14:34:02 733] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/20 14:34:02 739] waiter     275  last gc at  1471674842  
+[2016/08/20 14:34:02 739] network    174  dns resp  0  
+[2016/08/20 14:34:02 739] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/20 14:34:02 739] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/20 14:34:02 757] network    233  connected  
+[2016/08/20 14:34:02 757] network    236  send ok  93  
+[2016/08/20 14:34:02 776] network    233  connected  
+[2016/08/20 14:34:02 776] network    236  send ok  94  
+[2016/08/20 14:34:02 786] network    239  readable  
+[2016/08/20 14:34:02 786] network    927  port1028 http resp  nil  0  udata(2cfc5e0) 
+[2016/08/20 14:34:02 786] network    934  set preferred_port: 1028  
+[2016/08/20 14:34:02 799] network    427  update_iplist  
+[2016/08/20 14:34:02 799] waiter     275  last gc at  1471674842  
+[2016/08/20 14:34:02 811] network    239  readable  
+[2016/08/20 14:34:02 812] network    549  update iplist http resp  nil  0  udata(2cfc130) 
+[2016/08/20 14:34:02 812] network    573  update iplist ok  
+[2016/08/20 14:34:02 812] network    595  not encrypted!  
+[2016/08/20 14:34:02 813] network    497  dev.voicecloud.cn  
+[2016/08/20 14:34:02 813] network    508  bj  
+[2016/08/20 14:34:02 813] network    510  bj  
+[2016/08/20 14:34:02 813] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 14:34:02 813] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 14:34:02 815] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 14:34:02 815] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 14:34:02 815] network    510  gz  
+[2016/08/20 14:34:02 815] network    510  hf  
+============================================================
+Time  2016/08/20 14:34:58 375 
+============================================================
+[2016/08/20 14:34:58 375] waiter     189  waiter loaded!  
+[2016/08/20 14:34:58 375] network    427  update_iplist  
+[2016/08/20 14:34:58 375] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 14:34:58 377] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 14:34:58 377] waiter     275  last gc at  1471674898  
+[2016/08/20 14:34:58 391] network    427  update_iplist  
+[2016/08/20 14:34:58 391] waiter     275  last gc at  1471674898  
+[2016/08/20 14:34:58 391] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/20 14:34:58 395] waiter     275  last gc at  1471674898  
+[2016/08/20 14:34:58 397] network    174  dns resp  0  
+[2016/08/20 14:34:58 397] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/20 14:34:58 397] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/20 14:34:58 418] network    233  connected  
+[2016/08/20 14:34:58 421] network    236  send ok  93  
+[2016/08/20 14:34:58 438] network    239  readable  
+[2016/08/20 14:34:58 440] network    927  port1028 http resp  nil  0  udata(f52778) 
+[2016/08/20 14:34:58 440] network    934  set preferred_port: 1028  
+[2016/08/20 14:34:58 440] network    233  connected  
+[2016/08/20 14:34:58 440] network    236  send ok  94  
+[2016/08/20 14:34:58 457] network    427  update_iplist  
+[2016/08/20 14:34:58 457] waiter     275  last gc at  1471674898  
+[2016/08/20 14:34:58 469] network    239  readable  
+[2016/08/20 14:34:58 470] network    549  update iplist http resp  nil  0  udata(f527d8) 
+[2016/08/20 14:34:58 470] network    573  update iplist ok  
+[2016/08/20 14:34:58 470] network    595  not encrypted!  
+[2016/08/20 14:34:58 470] network    497  dev.voicecloud.cn  
+[2016/08/20 14:34:58 471] network    508  bj  
+[2016/08/20 14:34:58 471] network    510  bj  
+[2016/08/20 14:34:58 471] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 14:34:58 471] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 14:34:58 473] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 14:34:58 473] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 14:34:58 473] network    510  gz  
+[2016/08/20 14:34:58 473] network    510  hf  
+============================================================
+Time  2016/08/20 14:37:18 078 
+============================================================
+[2016/08/20 14:37:18 078] waiter     189  waiter loaded!  
+[2016/08/20 14:37:18 078] network    427  update_iplist  
+[2016/08/20 14:37:18 078] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 14:37:18 078] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 14:37:18 079] waiter     275  last gc at  1471675038  
+[2016/08/20 14:37:18 079] network    427  update_iplist  
+[2016/08/20 14:37:18 082] waiter     275  last gc at  1471675038  
+[2016/08/20 14:37:18 082] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/20 14:37:18 104] waiter     275  last gc at  1471675038  
+[2016/08/20 14:37:18 104] network    174  dns resp  0  
+[2016/08/20 14:37:18 104] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/20 14:37:18 104] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/20 14:37:18 127] network    233  connected  
+[2016/08/20 14:37:18 128] network    236  send ok  93  
+[2016/08/20 14:37:18 148] network    239  readable  
+[2016/08/20 14:37:18 151] network    927  port1028 http resp  nil  0  udata(a8ed98) 
+[2016/08/20 14:37:18 151] network    934  set preferred_port: 1028  
+[2016/08/20 14:37:18 151] network    233  connected  
+[2016/08/20 14:37:18 151] network    236  send ok  94  
+[2016/08/20 14:37:18 163] network    427  update_iplist  
+[2016/08/20 14:37:18 163] waiter     275  last gc at  1471675038  
+[2016/08/20 14:37:18 178] network    239  readable  
+[2016/08/20 14:37:18 180] network    549  update iplist http resp  nil  0  udata(a8ec78) 
+[2016/08/20 14:37:18 180] network    573  update iplist ok  
+[2016/08/20 14:37:18 180] network    595  not encrypted!  
+[2016/08/20 14:37:18 181] network    497  dev.voicecloud.cn  
+[2016/08/20 14:37:18 181] network    508  bj  
+[2016/08/20 14:37:18 181] network    510  bj  
+[2016/08/20 14:37:18 181] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 14:37:18 181] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 14:37:18 183] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 14:37:18 183] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 14:37:18 184] network    510  gz  
+[2016/08/20 14:37:18 184] network    510  hf  
+============================================================
+Time  2016/08/20 14:37:47 221 
+============================================================
+[2016/08/20 14:37:47 221] waiter     189  waiter loaded!  
+[2016/08/20 14:37:47 221] network    427  update_iplist  
+[2016/08/20 14:37:47 221] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 14:37:47 224] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 14:37:47 224] waiter     275  last gc at  1471675067  
+[2016/08/20 14:37:47 226] network    427  update_iplist  
+[2016/08/20 14:37:47 226] waiter     275  last gc at  1471675067  
+[2016/08/20 14:37:47 227] network    208  gethttpresp2  117.121.21.146  1028  
+[2016/08/20 14:37:47 233] waiter     275  last gc at  1471675067  
+[2016/08/20 14:37:47 233] network    174  dns resp  0  
+[2016/08/20 14:37:47 233] network    317  gethttpresp dns ok  117.121.21.146  
+[2016/08/20 14:37:47 233] network    208  gethttpresp2  117.121.21.146  80  
+[2016/08/20 14:37:47 253] network    233  connected  
+[2016/08/20 14:37:47 255] network    236  send ok  93  
+[2016/08/20 14:37:47 270] network    233  connected  
+[2016/08/20 14:37:47 272] network    236  send ok  94  
+[2016/08/20 14:37:47 275] network    239  readable  
+[2016/08/20 14:37:47 275] network    927  port1028 http resp  nil  0  udata(a82750) 
+[2016/08/20 14:37:47 275] network    934  set preferred_port: 1028  
+[2016/08/20 14:37:47 292] network    427  update_iplist  
+[2016/08/20 14:37:47 292] waiter     275  last gc at  1471675067  
+[2016/08/20 14:37:47 303] network    239  readable  
+[2016/08/20 14:37:47 305] network    549  update iplist http resp  nil  0  udata(a80e00) 
+[2016/08/20 14:37:47 305] network    573  update iplist ok  
+[2016/08/20 14:37:47 305] network    595  not encrypted!  
+[2016/08/20 14:37:47 305] network    497  dev.voicecloud.cn  
+[2016/08/20 14:37:47 305] network    508  bj  
+[2016/08/20 14:37:47 305] network    510  bj  
+[2016/08/20 14:37:47 306] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 14:37:47 306] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 14:37:47 306] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 14:37:47 308] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 14:37:47 309] network    510  gz  
+[2016/08/20 14:37:47 309] network    510  hf  
+============================================================
+Time  2016/08/20 14:38:32 213 
+============================================================
+[2016/08/20 14:38:32 214] waiter     189  waiter loaded!  
+[2016/08/20 14:38:32 214] network    427  update_iplist  
+[2016/08/20 14:38:32 214] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 14:38:32 214] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 14:38:32 214] waiter     275  last gc at  1471675112  
+[2016/08/20 14:38:32 214] network    427  update_iplist  
+[2016/08/20 14:38:32 216] waiter     275  last gc at  1471675112  
+[2016/08/20 14:38:32 216] network    208  gethttpresp2  117.121.21.149  1028  
+[2016/08/20 14:38:32 233] waiter     275  last gc at  1471675112  
+[2016/08/20 14:38:32 233] network    174  dns resp  0  
+[2016/08/20 14:38:32 233] network    317  gethttpresp dns ok  117.121.21.149  
+[2016/08/20 14:38:32 233] network    208  gethttpresp2  117.121.21.149  80  
+[2016/08/20 14:38:32 265] network    233  connected  
+[2016/08/20 14:38:32 266] network    236  send ok  93  
+[2016/08/20 14:38:32 283] network    233  connected  
+[2016/08/20 14:38:32 285] network    236  send ok  94  
+[2016/08/20 14:38:32 286] network    239  readable  
+[2016/08/20 14:38:32 286] network    927  port1028 http resp  nil  0  udata(1917078) 
+[2016/08/20 14:38:32 286] network    934  set preferred_port: 1028  
+[2016/08/20 14:38:32 302] network    427  update_iplist  
+[2016/08/20 14:38:32 302] waiter     275  last gc at  1471675112  
+[2016/08/20 14:38:32 315] network    239  readable  
+[2016/08/20 14:38:32 316] network    549  update iplist http resp  nil  0  udata(1916fe8) 
+[2016/08/20 14:38:32 316] network    573  update iplist ok  
+[2016/08/20 14:38:32 316] network    595  not encrypted!  
+[2016/08/20 14:38:32 318] network    497  dev.voicecloud.cn  
+[2016/08/20 14:38:32 318] network    508  bj  
+[2016/08/20 14:38:32 319] network    510  bj  
+[2016/08/20 14:38:32 319] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 14:38:32 319] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 14:38:32 319] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 14:38:32 319] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 14:38:32 321] network    510  gz  
+[2016/08/20 14:38:32 321] network    510  hf  
+============================================================
+Time  2016/08/20 16:28:24 250 
+============================================================
+[2016/08/20 16:28:24 250] waiter     189  waiter loaded!  
+[2016/08/20 16:28:24 250] network    427  update_iplist  
+[2016/08/20 16:28:24 250] network    331  gethttpresp3  http://dev.voicecloud.cn:80/ipcfg.txt  standard  
+[2016/08/20 16:28:24 253] network    313  gethttpresp  http://dev.voicecloud.cn:80/ipcfg.txt  
+[2016/08/20 16:28:24 253] waiter     275  last gc at  1471681704  
+[2016/08/20 16:28:24 253] network    427  update_iplist  
+[2016/08/20 16:28:24 253] waiter     275  last gc at  1471681704  
+[2016/08/20 16:28:24 255] network    208  gethttpresp2  117.121.21.147  1028  
+[2016/08/20 16:28:24 260] waiter     275  last gc at  1471681704  
+[2016/08/20 16:28:24 260] network    174  dns resp  0  
+[2016/08/20 16:28:24 260] network    317  gethttpresp dns ok  117.121.21.147  
+[2016/08/20 16:28:24 260] network    208  gethttpresp2  117.121.21.147  80  
+[2016/08/20 16:28:24 280] network    233  connected  
+[2016/08/20 16:28:24 282] network    236  send ok  93  
+[2016/08/20 16:28:24 299] network    233  connected  
+[2016/08/20 16:28:24 299] network    236  send ok  94  
+[2016/08/20 16:28:24 302] network    239  readable  
+[2016/08/20 16:28:24 302] network    927  port1028 http resp  nil  0  udata(32480f8) 
+[2016/08/20 16:28:24 302] network    934  set preferred_port: 1028  
+[2016/08/20 16:28:24 325] network    427  update_iplist  
+[2016/08/20 16:28:24 325] waiter     275  last gc at  1471681704  
+[2016/08/20 16:28:24 328] network    239  readable  
+[2016/08/20 16:28:24 329] network    549  update iplist http resp  nil  0  udata(32654d0) 
+[2016/08/20 16:28:24 329] network    573  update iplist ok  
+[2016/08/20 16:28:24 329] network    595  not encrypted!  
+[2016/08/20 16:28:24 331] network    497  dev.voicecloud.cn  
+[2016/08/20 16:28:24 331] network    508  bj  
+[2016/08/20 16:28:24 332] network    510  bj  
+[2016/08/20 16:28:24 332] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cm  117.121.56.3  
+[2016/08/20 16:28:24 332] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  ct  116.213.69.201  
+[2016/08/20 16:28:24 332] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  cu  117.121.56.8  
+[2016/08/20 16:28:24 332] network    89   iptoenv ,  ipcfg  dev.voicecloud.cn  def  116.213.69.199  
+[2016/08/20 16:28:24 334] network    510  gz  
+[2016/08/20 16:28:24 334] network    510  hf  
