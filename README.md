@@ -6,3 +6,5 @@
 [ 参考科大讯飞的windows开发文档 ](http://doc.xfyun.cn/msc_windows/)
 
 Demo项目参考自科大讯飞语音SDK
+
+IDE：Visual Studio
